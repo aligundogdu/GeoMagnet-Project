@@ -93,3 +93,8 @@ Let’s build a collective memory map, together.
 MIT — because memories should be free to share.
 
 > _"Collect moments, not things — but if you must collect something, let it be stories you can touch."_
+
+
+## Language
+
+> 🇬🇧 This README is in English. For Turkish version, see [README_TR.md](README_TR.md)
