@@ -43,7 +43,7 @@ And now, we're sharing it with the world.
 
 ## ⚙️ Recommended ma2stl Settings
 
-When generating terrain models with [ma2stl](https://ma2stl.netlify.app/), we use the following settings:
+When generating terrain models with [ma2stl](https://www.map2stl.com/), we use the following settings:
 
 - **Box Scale (Sampling Rate):** `2`
 - **Model Scale:** `2.00`

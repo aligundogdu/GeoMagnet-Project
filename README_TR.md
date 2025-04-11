@@ -47,7 +47,7 @@ Ve şimdi bu deneyimi herkesle paylaşıyorum.
 
 ## ⚙️ Önerilen ma2stl Ayarları
 
-[ma2stl](https://ma2stl.netlify.app/) aracı ile arazi modelleri oluştururken aşağıdaki ayarları kullanıyoruz:
+[ma2stl](https://www.map2stl.com/) aracı ile arazi modelleri oluştururken aşağıdaki ayarları kullanıyoruz:
 
 - **Box Scale (Örnekleme Oranı):** `2`
 - **Model Ölçeği:** `2.00`
