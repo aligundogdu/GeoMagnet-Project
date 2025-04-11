@@ -1,3 +1,5 @@
+
+
 # GeoMagnet Project 🧭🗺️🧲
 **Every trip leaves a memory — every map holds a story.**
 
@@ -8,6 +10,8 @@ But that’s not all.
 I also designed a custom 3D magnet frame, into which I place each printed map slice — turning every visit into a physical keepsake.
 
 ---
+
+
 
 ## ✨ Why I Created This
 
@@ -74,6 +78,13 @@ Example Magnet Product Image             |  Example Tabe Product Image
 <img src="images/magnet-image.jpg" alt="Magnet Product Photo" height="100px" border="1px"/> | <img src="images/tape-image.jpg" alt="Tape Product Photo" height="100px" border="1px"/>
 
 
+
+---
+## 💡Design File & Online Tool
+
+> I designed the product with tinkercad, you can access the design file via tinkercad from the link below.
+
+<a href="https://www.tinkercad.com/things/a7Sl9GH4awK-geo-magnet-frame" target="_blank"><img src="images/frame-image.png"><a/>
 
 
 
