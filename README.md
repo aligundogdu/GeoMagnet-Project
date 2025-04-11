@@ -69,8 +69,13 @@ To build your own GeoMagnet, you’ll need:
 
 > The frame’s magnet slot has a slight tolerance for a snug press-fit. 
 
-<img src="images/magnet-image.jpg" alt="Magnet Product Photo" height="100px" border="1px"/>
-<img src="images/tape-image.jpg" alt="Tape Product Photo" height="100px" border="1px"/>
+Example Magnet Product Image             |  Example Tabe Product Image
+:-------------------------:|:-------------------------:
+<img src="images/magnet-image.jpg" alt="Magnet Product Photo" height="100px" border="1px"/> | <img src="images/tape-image.jpg" alt="Tape Product Photo" height="100px" border="1px"/>
+
+
+
+
 
 
 ---
