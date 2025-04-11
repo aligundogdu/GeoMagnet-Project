@@ -67,7 +67,11 @@ To build your own GeoMagnet, you’ll need:
   - If you’re outside Turkey, **any 5mm diameter x 1mm thick neodymium magnet** should work
 - **Glue (optional) or Thin double-sided tape** to fix magnets securely
 
-> The frame’s magnet slot has a slight tolerance for a snug press-fit.
+> The frame’s magnet slot has a slight tolerance for a snug press-fit. 
+
+<img src="images/magnet-image.jpg" alt="Magnet Product Photo" height="100px" border="1px"/>
+<img src="images/tape-image.jpg" alt="Tape Product Photo" height="100px" border="1px"/>
+
 
 ---
 
