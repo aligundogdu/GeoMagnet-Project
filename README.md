@@ -87,6 +87,13 @@ Example Magnet Product Image             |  Example Tabe Product Image
 <a href="https://www.tinkercad.com/things/a7Sl9GH4awK-geo-magnet-frame" target="_blank"><img src="images/frame-image.png"><a/>
 
 
+--
+## Examples
+
+Example Magnet Product Image             |  Example Tabe Product Image
+:-------------------------:|:-------------------------:
+<img src="images/frame-image.jpeg" alt="Printed Frame Image" /> | <img src="images/example-image.jpeg" alt="Finished Product Image" />
+
 
 
 ---
