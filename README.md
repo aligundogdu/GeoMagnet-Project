@@ -88,13 +88,15 @@ Example Magnet Product Image             |  Example Tabe Product Image
 
 
 --
-## Examples
+## 👉 Examples
 
 Example Magnet Product Image             |  Example Tabe Product Image
 :-------------------------:|:-------------------------:
 <img src="images/frame-image.jpeg" alt="Printed Frame Image" /> | <img src="images/example-image.jpeg" alt="Finished Product Image" />
 
+## 👁 Final
 
+<img src="images/result-image.png" alt="Printed Frame Image" /> 
 
 ---
 
