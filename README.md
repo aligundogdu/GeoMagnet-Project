@@ -9,6 +9,8 @@ But that’s not all.
 
 I also designed a custom 3D magnet frame, into which I place each printed map slice — turning every visit into a physical keepsake.
 
+IMPORTANT: I recently created a repository named TerraSTL, which allows you to generate the same output locally as you would with map2stl.com.
+
 ---
 
 
@@ -33,7 +35,7 @@ And now, I’m sharing it with the world.
 - Template files and tips for using [map2stl.com](https://www.map2stl.com/)
 - Step-by-step guides for printing and customizing your magnets
 
-> IMPORTANT: I recently created a repository named [TerraSTL](https://github.com/aligundogdu/TerraStl), which allows you to generate the same output locally as you would with map2stl.com.
+> IMPORTANT AGAIN : I recently created a repository named [TerraSTL](https://github.com/aligundogdu/TerraStl), which allows you to generate the same output locally as you would with map2stl.com.
 
 ---
 
