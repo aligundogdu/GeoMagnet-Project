@@ -33,11 +33,13 @@ And now, I’m sharing it with the world.
 - Template files and tips for using [map2stl.com](https://www.map2stl.com/)
 - Step-by-step guides for printing and customizing your magnets
 
+> IMPORTANT: I recently created a repository named [TerraSTL](https://github.com/aligundogdu/TerraStl), which allows you to generate the same output locally as you would with map2stl.com.
+
 ---
 
 ## 🧲 How I Do It
 
-1. I go to [map2stl.com](https://www.map2stl.com/) and select the area I visited
+1. I go to [map2stl.com](https://www.map2stl.com/) and select the area I visited (or my new project [TerraSTL](https://github.com/aligundogdu/TerraStl) 😎 )
 2. Export the STL model of the terrain
 3. Print the model and the `frame.stl`
 4. Insert the map slice into the frame
