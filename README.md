@@ -100,7 +100,7 @@ Example Magnet Product Image             |  Example Tabe Product Image
 
 ## 👁 Final
 
-<img src="images/result-image.png" alt="Printed Frame Image" /> 
+<img src="images/result-image-20052025.png" alt="Printed Frame Image" /> 
 
 ---
 
