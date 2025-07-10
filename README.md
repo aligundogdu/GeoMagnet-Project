@@ -104,6 +104,11 @@ Example Magnet Product Image             |  Example Tabe Product Image
 
 ---
 
+
+## Blog Articles
+
+- [Hierapolis](https://aligundogdu.com/travel/the-sacred-touch-of-thermal-waters-hospitality-beginning-at-the-gates-of-hierapolis/)
+
 ## 📚 Coming Soon
 
 - Blog articles for each location — with my trip notes, photos, and STL files
