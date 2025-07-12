@@ -108,6 +108,7 @@ Example Magnet Product Image             |  Example Tabe Product Image
 ## Blog Articles
 
 - [Hierapolis](https://aligundogdu.com/travel/the-sacred-touch-of-thermal-waters-hospitality-beginning-at-the-gates-of-hierapolis/)
+- [Nysa](https://aligundogdu.com/travel/nysa-the-ancient-summit-city-where-time-patience-and-engineering-converge-in-stone/)
 
 ## 📚 Coming Soon
 
